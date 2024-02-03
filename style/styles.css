@@ -31,4 +31,16 @@ h1{
 #resultDisplay{
     font-size: 5rem;
 }
+.scoreDisplay{
+    font-size: 2rem;
+}
 
+.greenText, #playerScoreDisplay{
+    color: green;
+}
+.redText, #computerScoreDisplay{
+    color: red
+}
+.neutralText{
+    color: grey
+}
